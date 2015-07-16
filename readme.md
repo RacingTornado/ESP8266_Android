@@ -11,5 +11,7 @@ The nodemcu is programmed using ESPLORER. Detailed explanation for this are avai
 
 The nodemcu program must be saved as init.lua and saved on the ESP. THe init.lua is in the same folder as the android. 
 
+The http://randomnerdtutorials.com/esp8266-web-server/ and esp8266.com are good if you are interested in ESP8266. Dont forget to check out nodemcu as well as the https://github.com/pfalcon/esp-open-sdk,https://github.com/nekromant/esp8266-frankenstein which are pretty cool to play with.
+
 
 
